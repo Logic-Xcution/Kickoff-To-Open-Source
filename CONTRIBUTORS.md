@@ -1,3 +1,3 @@
 # List Of Contributors
 
-- [Madhav Bahl](https://github.com/MadhavBahlMD) - MadhavBahlMD - A Cadet Who Codes
+- [Madhav](https://github.com/MadhavBahlMD) - MadhavBahlMD - The Lean Programmer
