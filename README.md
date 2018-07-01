@@ -51,6 +51,9 @@ Open a terminal and run the following git command:
 git clone "Copied URL"
 ```
 
+![image](https://user-images.githubusercontent.com/26179770/42131548-e2c6ac94-7d21-11e8-9a5e-3b4c352d175a.png)
+
+
 ## STEP 4: Create A Branch 
 
 Go to the directory where you cloned the repo.
@@ -68,6 +71,9 @@ for example:
 ```sh
 git checkout -b MadhavBahlMD
 ```
+
+![image](https://user-images.githubusercontent.com/26179770/42131562-4f9bded4-7d22-11e8-9c5b-74a261481f1c.png)
+
 
 ## STEP 5: Make Changes! Resolve Issue! Commit Those Changes! Push To GitHub!
 
