@@ -51,8 +51,7 @@ Open a terminal and run the following git command:
 git clone "Copied URL"
 ```
 
-![image](https://user-images.githubusercontent.com/26179770/42131548-e2c6ac94-7d21-11e8-9a5e-3b4c352d175a.png)
-
+<img src="images/clone.gif" />
 
 ## STEP 4: Create A Branch 
 
@@ -72,7 +71,7 @@ for example:
 git checkout -b MadhavBahlMD
 ```
 
-![image](https://user-images.githubusercontent.com/26179770/42131562-4f9bded4-7d22-11e8-9c5b-74a261481f1c.png)
+<img src="images/checkout.gif" />
 
 
 ## STEP 5: Make Changes! Resolve Issue! Commit Those Changes! Push To GitHub!
@@ -91,6 +90,8 @@ git commit -m "Add [username] as a contributor"
 git push origin <branch name>
 ```
 
+<img src="images/push.gif" />
+
 ## STEP 6: Open a Pull Request
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
@@ -98,6 +99,8 @@ If you go to your repository on GitHub, you'll see a `Compare & pull request` bu
 Now submit the pull request!
 
 Soon your changes will be reviewed and the PR will be merged if the changes are legit!
+
+<img src="images/PR.gif" />
 
 ## Congrats
 
