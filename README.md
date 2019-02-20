@@ -155,3 +155,5 @@ git push origin --delete <branch-name>
 ## All The Best!
 
 Now you know how to contribute to open source, go ahead champ!
+Abhinav A S
+Chris
