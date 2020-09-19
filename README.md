@@ -9,7 +9,7 @@ First time open source seems very confusing. Beginners are generally overwhelmed
 
 So, here's a practise environment for your first contribution :D
 
-Also, you can see the presentation slides of `Kickoff To Opensource` here: [madhavbahl.tech/opensource/](http://madhavbahl.tech/opensource/)
+Also, you can see the presentation slides of `Kickoff To Opensource` here: [madhavbahl.tech/leantalks/os/](http://madhavbahl.tech/leantalks/os/)
 
 ## Let's Start!
 
