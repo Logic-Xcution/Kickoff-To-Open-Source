@@ -1,4 +1,4 @@
 # List Of Contributors
 
 - [Madhav Bahl](https://github.com/MadhavBahlMD) - MadhavBahlMD - A Cadet Who Codes
-- [Prathamesh](https://github.com/Prathamesh99)
+- [Parth Patel](https://github.com/ppm143) - ppm143 - Javascript Developer
