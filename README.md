@@ -17,9 +17,9 @@ Also, you can see the presentation slides of `Kickoff To Opensource` here: [madh
 
 First step for starting open source is obviously, finding an open source project to contribute to!
 
-Either you can go for contributing the project os some open source organisation like fossasia etc.
+Either you can go for contributing the project of some open source organisation like fossasia etc.
 
-Or, you can find your projects/issues you want ot work on from these websites.
+Or, you can find your projects/issues you want to work on from these websites.
 
 - [issuehub.io](http://issuehub.io/) - A website which helps you find projects/issues based on your required language or issue labels.
 
