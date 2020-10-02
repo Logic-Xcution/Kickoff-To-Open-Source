@@ -6,3 +6,5 @@
 - [Mukka Deepak](https://github.com/Deepakmukka1)
 - [JayaGaneshKumar](https://github.com/jayaganeshkumar)
 - [Avinash Potti](https://github.com/avinashpnvss)
+- [Pronay Guha](https://github.com/pronayguha13)
+- [Likhitha](https://github.com/LikhithaTadikonda)
