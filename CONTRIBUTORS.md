@@ -1,5 +1,7 @@
 # List Of Contributors
 
+- [Madhav Bahl](https://github.com/MadhavBahlMD) - MadhavBahlMD - A Cadet Who Codes
+- [Parth Patel](https://github.com/ppm143) - ppm143 - Javascript Developer
 - [Prathamesh](https://github.com/Prathamesh99)
 - [Madhav Bahl](https://github.com/MadhavBahlMD) - The Lean Programmer
 - [Ankita Mandal](https://github.com/GoGi2712)
