@@ -11,3 +11,4 @@
 - [Avinash Potti](https://github.com/avinashpnvss)
 - [Pronay Guha](https://github.com/pronayguha13)
 - [Likhitha](https://github.com/LikhithaTadikonda)
+- [Sincerely Brittany](https://github.com/SincerelyBrittany)
