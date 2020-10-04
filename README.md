@@ -2,8 +2,9 @@
 
 ![badge](http://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)
 
-
 # KickOff To Open Source
+
+Maintainer - [@MadhavBahlMD](https://github.com/MadhavBahlMD/)
 
 First time open source seems very confusing. Beginners are generally overwhelmed and say "What Is This!?".
 
@@ -17,7 +18,7 @@ Also, you can see the presentation slides of `Kickoff To Opensource` here: [madh
 
 First step for starting open source is obviously, finding an open source project to contribute to!
 
-Either you can go for contributing the project os some open source organisation like fossasia etc.
+Either you can go for contributing the project on some open source organisation like fossasia etc.
 
 Or, you can find your projects/issues you want ot work on from these websites.
 
@@ -31,7 +32,7 @@ Or, you can find your projects/issues you want ot work on from these websites.
 
 - [Awesome First Timers PR](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 
-By now, you must have found your required project/issue. 
+By now, you must have found your required project/issue.
 
 This is a first timers only repo which can be used to make your first open source contribution. We will write our username and description in the CONTRIBUTORS.md file and make a PR.
 
@@ -55,7 +56,7 @@ git clone "Copied URL"
 
 <img src="images/clone.gif" />
 
-## STEP 4: Create A Branch 
+## STEP 4: Create A Branch
 
 Go to the directory where you cloned the repo.
 
@@ -74,7 +75,6 @@ git checkout -b MadhavBahlMD
 ```
 
 <img src="images/checkout.gif" />
-
 
 ## STEP 5: Make Changes! Resolve Issue! Commit Those Changes! Push To GitHub!
 
