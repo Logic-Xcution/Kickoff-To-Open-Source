@@ -8,6 +8,7 @@
 - [Sagun Jaiswal](https://github.com/sagunjaiswal)
 - [Mukka Deepak](https://github.com/Deepakmukka1)
 - [JayaGaneshKumar](https://github.com/jayaganeshkumar)
+- [Antariksh Pratham](https://github.com/APratham)
 - [Avinash Potti](https://github.com/avinashpnvss)
 - [Pronay Guha](https://github.com/pronayguha13)
 - [Likhitha](https://github.com/LikhithaTadikonda)
