@@ -6,11 +6,12 @@
 
 Maintainer - [@MadhavBahlMD](https://github.com/MadhavBahlMD/)
 
-First time open source seems very confusing. Beginners are generally overwhelmed and say "What Is This!?".
-
+First time open source seems very confusing.
 So, here's a practise environment for your first contribution :D
 
-Also, you can see the presentation slides of `Kickoff To Opensource` here: [madhavbahl.tech/opensource/](http://madhavbahl.tech/opensource/)
+**NOTE - CONTRIIBUTION TO THIS REPO IS NOT COUNTED AS A HACKTOBERFEST CONTRIBUTION. THIS IS JUST FOR PRACTICE.**
+
+Also, you can see the presentation slides of `Kickoff To Opensource` here: [madhavbahl.tech/hacktoberfest2021/](http://madhavbahl.tech/hacktoberfest2021)
 
 ## Let's Start!
 
