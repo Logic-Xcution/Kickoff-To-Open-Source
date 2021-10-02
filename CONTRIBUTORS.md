@@ -11,3 +11,4 @@
 - [Pronay Guha](https://github.com/pronayguha13)
 - [Likhitha](https://github.com/LikhithaTadikonda)
 - [Sincerely Brittany](https://github.com/SincerelyBrittany)
+- [Madhav Bahl](https://github.com/MadhavBahl)
