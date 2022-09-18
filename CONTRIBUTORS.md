@@ -12,3 +12,4 @@
 - [Likhitha](https://github.com/LikhithaTadikonda)
 - [Sincerely Brittany](https://github.com/SincerelyBrittany)
 - [Madhav Bahl](https://github.com/MadhavBahl)
+- [Vinayak Kamble](https://github.com/Vinayakkamble07)
