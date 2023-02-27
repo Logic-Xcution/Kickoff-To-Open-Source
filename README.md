@@ -7,7 +7,7 @@
 Maintainer - [@MadhavBahlMD](https://github.com/MadhavBahlMD/)
 
 First time open source seems very confusing.
-So, here's a practise environment for your first contribution :D
+So, here's a practice environment for your first contribution :D
 
 **NOTE - CONTRIIBUTION TO THIS REPO IS NOT COUNTED AS A HACKTOBERFEST CONTRIBUTION. THIS IS JUST FOR PRACTICE.**
 
